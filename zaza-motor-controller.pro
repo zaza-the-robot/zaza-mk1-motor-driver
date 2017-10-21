@@ -1,4 +1,4 @@
-update=Tue 17 Oct 2017 10:46:44 PM PDT
+update=Fri 20 Oct 2017 06:58:52 PM PDT
 version=1
 last_client=eeschema
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../../
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -59,13 +69,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=logic
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName31=/home/mrnuke/pcb/kicad_iec_symbols/74xx_iec
+LibName32=/home/mrnuke/pcb/kicad-library/library/ir
