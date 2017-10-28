@@ -15,8 +15,8 @@
   (page A4)
   (title_block
     (title "Zaza MK-1 48V Brushed DC motor controller")
-    (date 2017-10-08)
-    (rev 0)
+    (date 2017-10-27)
+    (rev 1)
     (company "Alexandru Gagniuc")
   )
 
@@ -3851,7 +3851,7 @@
     )
   )
 
-  (gr_text "Designed by Hugh E. Dick" (at 142.5 62) (layer F.SilkS)
+  (gr_text "Designed by Alexandru Gagniuc" (at 144 62) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 156 69) (end 142 69) (layer Edge.Cuts) (width 0.2))
